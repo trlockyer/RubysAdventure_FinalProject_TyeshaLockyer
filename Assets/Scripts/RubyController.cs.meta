@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 169d27f4f93033847b265cebadb78918
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {fileID: 5531628947101152203, guid: 5d0d755d7eef53948b601727d70fca22,
+      type: 3}
+  - ammoText: {instanceID: 0}
+  - cogThrowClip: {instanceID: 0}
+  - playerHitClip: {instanceID: 0}
+  - playerRunning: {instanceID: 0}
+  - walkingAudioObject: {instanceID: 0}
+  - damageImage: {instanceID: 0}
+  - healImage: {instanceID: 0}
+  - GameOverMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 795533dfc2acf4954bb5fdf8a4a64760
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smokeEffect: {instanceID: 0}
+  - cogCollision: {instanceID: 0}
+  - fixAudioClip: {instanceID: 0}
+  - questObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
